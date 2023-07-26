@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h4> 🌱나우의 깃허브🌱 </h4>
+
+![koonawoo's github stats](https://github-readme-stats.vercel.app/api?username=koonawoo&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koonawoo&layout=compact&theme=gruvbox)
+
